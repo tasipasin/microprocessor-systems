@@ -1,0 +1,50 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\minha_lib.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\Debug\lab-a2-com-serial.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab-a2-com-serial.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab-a2-com-serial.map</FILE>
+  <FILE>lab-a2-com-serial.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <config><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>17</LINE></config>
+  <pause_R16_us_><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\minha_lib.inc</FILE><LINE>41</LINE></pause_R16_us_>
+  <pause_R16_us_loop_><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\minha_lib.inc</FILE><LINE>43</LINE></pause_R16_us_loop_>
+  <pause_R16_us_end_><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\minha_lib.inc</FILE><LINE>52</LINE></pause_R16_us_end_>
+  <pause_R16_ms_><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\minha_lib.inc</FILE><LINE>55</LINE></pause_R16_ms_>
+  <pause_R16_ms_loop_><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\minha_lib.inc</FILE><LINE>56</LINE></pause_R16_ms_loop_>
+  <pause_R16_ms_fim_><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\minha_lib.inc</FILE><LINE>69</LINE></pause_R16_ms_fim_>
+  <repeat><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>30</LINE></repeat>
+  <rx_R16><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>70</LINE></rx_R16>
+  <adc_conv><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>88</LINE></adc_conv>
+  <read_tabela_R16><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>43</LINE></read_tabela_R16>
+  <u4_to_hex><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>104</LINE></u4_to_hex>
+  <tx_R16><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>78</LINE></tx_R16>
+  <read_tabela><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>45</LINE></read_tabela>
+  <tabela_R16><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>58</LINE></tabela_R16>
+  <ret_tabela><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>53</LINE></ret_tabela>
+  <tabela><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>66</LINE></tabela>
+  <tx_R16_loop><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>80</LINE></tx_R16_loop>
+  <adc_aguarda><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>95</LINE></adc_aguarda>
+  <shift_right_R16><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>117</LINE></shift_right_R16>
+  <tabela_ascii_R16><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>134</LINE></tabela_ascii_R16>
+  <shift_left_R16><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>126</LINE></shift_left_R16>
+  <tabela_ascii><FILE>C:\faculdade\psm\lab-a2-com-serial\lab-a2-com-serial\main.asm</FILE><LINE>144</LINE></tabela_ascii>
+ </LABELS>
+</ASSEMBLER_INFO>

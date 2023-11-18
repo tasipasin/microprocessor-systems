@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\minha_lib.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\Debug\conversor-ad-teste.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>conversor-ad-teste.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>conversor-ad-teste.map</FILE>
+  <FILE>conversor-ad-teste.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\main.asm</FILE><LINE>6</LINE></start>
+  <pause_R16_us_><FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\minha_lib.inc</FILE><LINE>41</LINE></pause_R16_us_>
+  <pause_R16_us_loop_><FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\minha_lib.inc</FILE><LINE>43</LINE></pause_R16_us_loop_>
+  <pause_R16_us_end_><FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\minha_lib.inc</FILE><LINE>52</LINE></pause_R16_us_end_>
+  <pause_R16_ms_><FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\minha_lib.inc</FILE><LINE>55</LINE></pause_R16_ms_>
+  <pause_R16_ms_loop_><FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\minha_lib.inc</FILE><LINE>56</LINE></pause_R16_ms_loop_>
+  <pause_R16_ms_fim_><FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\minha_lib.inc</FILE><LINE>69</LINE></pause_R16_ms_fim_>
+  <adc_config><FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\main.asm</FILE><LINE>22</LINE></adc_config>
+  <repete><FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\main.asm</FILE><LINE>13</LINE></repete>
+  <adc_conv><FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\main.asm</FILE><LINE>30</LINE></adc_conv>
+  <adc_aguarda><FILE>C:\faculdade\psm\conversor-ad-teste\conversor-ad-teste\main.asm</FILE><LINE>38</LINE></adc_aguarda>
+ </LABELS>
+</ASSEMBLER_INFO>

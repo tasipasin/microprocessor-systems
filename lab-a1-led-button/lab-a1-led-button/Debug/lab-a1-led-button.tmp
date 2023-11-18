@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\Debug\lab-a1-led-button.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab-a1-led-button.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab-a1-led-button.map</FILE>
+  <FILE>lab-a1-led-button.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\main.asm</FILE><LINE>7</LINE></start>
+  <volta><FILE>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\main.asm</FILE><LINE>16</LINE></volta>
+  <but_3d_s><FILE>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\main.asm</FILE><LINE>24</LINE></but_3d_s>
+  <but_3d_c><FILE>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\main.asm</FILE><LINE>20</LINE></but_3d_c>
+  <apaga_led_1><FILE>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\main.asm</FILE><LINE>31</LINE></apaga_led_1>
+  <acende_led_1><FILE>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\main.asm</FILE><LINE>28</LINE></acende_led_1>
+  <verifica_led_2><FILE>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\main.asm</FILE><LINE>34</LINE></verifica_led_2>
+  <verifica_but_2_c><FILE>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\main.asm</FILE><LINE>39</LINE></verifica_but_2_c>
+  <verifica_but_2_s><FILE>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\main.asm</FILE><LINE>43</LINE></verifica_but_2_s>
+  <acende_led_2><FILE>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\main.asm</FILE><LINE>47</LINE></acende_led_2>
+  <apaga_led_2><FILE>C:\faculdade\psm\lab-a1-led-button\lab-a1-led-button\main.asm</FILE><LINE>50</LINE></apaga_led_2>
+ </LABELS>
+</ASSEMBLER_INFO>
